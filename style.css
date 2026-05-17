@@ -1,0 +1,12 @@
+img:hover{
+    transform: scale(2.5);
+}
+
+button:hover{
+    color: blue;
+    transform: scale(1.15);
+}
+
+#logo:hover{
+    transform: none;
+}
